@@ -32,16 +32,6 @@ Third-year Computer Science student specializing in **Artificial Intelligence** 
   <img src="https://img.shields.io/badge/VirtualBox-215732?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hen-malyanker&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-malyanker&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-</div>
-
 💡 **Leadership & Mentorship:**
 Beyond core engineering, I served as an instructor in the "Innovation Lab" program (in collaboration with the Tappuah Association, Perach, and Intel), where I tutored students in Python and technology. This experience sharpened my ability to translate complex concepts into clear solutions, communicate effectively, and drive collaborative teamwork.
 
