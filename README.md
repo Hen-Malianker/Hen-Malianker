@@ -16,9 +16,21 @@
 
 Third-year Computer Science student specializing in **Artificial Intelligence** at Sami Shamoon College of Engineering (SCE). My technical foundation is backed by hands-on experience from my active duty as a D-Level Avionics Technician and my active reserve service as a **Resource Allocation & Modeling NCO** in the Israeli Air Force — equipping me with strong systems-level thinking, precision, and analytical problem-solving.
 
-💻 **Technical Expertise:**
-* **Languages:** C, C++, Python, Java, Assembly (x86)
-* **Tools & Environments:** VS Code, PyCharm, IntelliJ IDEA, Oracle VirtualBox, Linux, Git
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VirtualBox-215732?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</p>
 
 💡 **Leadership & Mentorship:**
 Beyond core engineering, I served as an instructor in the "Innovation Lab" program (in collaboration with the Tappuah Association, Perach, and Intel), where I tutored students in Python and technology. This experience sharpened my ability to translate complex concepts into clear solutions, communicate effectively, and drive collaborative teamwork.
