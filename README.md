@@ -38,6 +38,11 @@ Beyond core engineering, I served as an instructor in the "Innovation Lab" progr
 🎯 **Looking Forward:**
 I am now looking for my next challenge in the high-tech industry — stepping into software development, AI, or other technical roles where I can build impactful solutions and grow professionally.
 
+### 🌍 Languages
+
+* 🇮🇱 **Hebrew:** Native
+* 🇬🇧 **English:** Professional Proficiency (Technical Reading, Writing & Speaking)
+
 📩 **Let's Connect:**
 Feel free to reach out to me via LinkedIn or email for any professional connections, consultations, or exciting opportunities!
 
