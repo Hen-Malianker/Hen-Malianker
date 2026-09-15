@@ -48,6 +48,12 @@ Feel free to reach out to me via LinkedIn or email for any professional connecti
 
 
 
+
+### 💬 Tech Quote
+
+> *"Simplicity is prerequisite for reliability."* 
+> — **Edsger W. Dijkstra**
+
 </br>
 
 
