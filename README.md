@@ -35,8 +35,11 @@ Third-year Computer Science student specializing in **Artificial Intelligence** 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hen-malianker&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-malianker&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=hen-malyanker&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-malyanker&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
 </div>
 
 💡 **Leadership & Mentorship:**
