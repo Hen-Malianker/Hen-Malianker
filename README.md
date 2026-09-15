@@ -27,7 +27,7 @@ Beyond core engineering, I served as an instructor in the "Innovation Lab" progr
 I am now looking for my next challenge in the high-tech industry — stepping into software development, AI, or other technical roles where I can build impactful solutions and grow professionally.
 
 📩 **Let's Connect:**
-Feel free to reach out to me here on LinkedIn or via email for any professional connections, consultations, or exciting opportunities!
+Feel free to reach out to me via LinkedIn or email for any professional connections, consultations, or exciting opportunities!
 
 </br>
 
