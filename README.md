@@ -32,6 +32,13 @@ Third-year Computer Science student specializing in **Artificial Intelligence** 
   <img src="https://img.shields.io/badge/VirtualBox-215732?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </p>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hen-malianker&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hen-malianker&layout=compact&theme=dark&hide_border=true" width="48%" />
+</div>
+
 💡 **Leadership & Mentorship:**
 Beyond core engineering, I served as an instructor in the "Innovation Lab" program (in collaboration with the Tappuah Association, Perach, and Intel), where I tutored students in Python and technology. This experience sharpened my ability to translate complex concepts into clear solutions, communicate effectively, and drive collaborative teamwork.
 
@@ -41,7 +48,11 @@ I am now looking for my next challenge in the high-tech industry — stepping in
 📩 **Let's Connect:**
 Feel free to reach out to me via LinkedIn or email for any professional connections, consultations, or exciting opportunities!
 
+
+
 </br>
+
+
 
 <div align="center">
 <sub>Made with a terminal-style SVG — dot-matrix portrait rendered from a photo via edge detection.</sub>
