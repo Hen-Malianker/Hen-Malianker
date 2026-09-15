@@ -10,17 +10,6 @@
 
 </div>
 
----
-
-### About
-
-B.Sc. Computer Science student @ SCE (AI Track), Israel — focused on **Artificial Intelligence**,
-currently building a **Defensive Drone Interception System** as a final project.
-
-- 🧠 Core skills: Data Structures, Algorithms, OOP, Machine Learning
-- 💻 Languages: Python, Java, C++, C, Assembly (x86)
-- 🛠️ Tools: VS Code, PyCharm, Linux, Git, Google Colab
-
 </br>
 
 <div align="center">
