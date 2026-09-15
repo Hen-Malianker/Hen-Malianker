@@ -14,12 +14,15 @@
 
 ### About
 
-B.Sc. Computer Science student @ SCE (AI Track), Israel — focused on **Artificial Intelligence**.
+Third-year Computer Science student specializing in Artificial Intelligence at Sami Shamoon College of Engineering (SCE), with a strong technical background from my active duty as a D-Level Avionics Technician and active reserve service as a Resource Allocation & Modeling NCO in the Israeli Air Force. This unique combination equips me with systems-level thinking, analytical problem-solving skills, and a deep passion for software and AI.
 
+On the technical front, I am proficient in core programming languages such as C, C++, Python, Java, and Assembly, and routinely work with development environments and tools like IntelliJ IDEA, PyCharm, VS Code, and Oracle VirtualBox.
 
-- 🧠 Core skills: Data Structures, Algorithms, OOP, Machine Learning
-- 💻 Languages: Python, Java, C++, C, Assembly (x86)
-- 🛠️ Tools: VS Code, PyCharm, Linux, Git, Google Colab
+Beyond the technical domain, I participated in the "Innovation Lab" program (in partnership with Tappuah Association, Perach, and Intel), where I tutored students, learned Python alongside other technical topics, and translated complex concepts into clear, accessible knowledge. This experience enhanced my interpersonal communication, patience, and ability to drive collaborative, effective problem-solving.
+
+I am now looking for my next challenge in the high-tech industry – stepping into software development, AI, or other technical roles where I can maximize my potential, contribute meaningfully, and grow professionally.
+
+Feel free to reach out to me here on LinkedIn or via email for any professional connections, consultations, or exciting opportunities!
 
 </br>
 
