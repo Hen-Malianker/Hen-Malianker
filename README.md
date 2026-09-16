@@ -13,7 +13,7 @@
 
 Third-year Computer Science (B.Sc.) student in the AI track at SCE. I love coding and bringing ideas to life, with a strong interest in artificial intelligence and gaming. I combine analytical thinking with my passion for development to build robust applications. 
 
-I am now looking for my next challenge in the high-tech industry — stepping into software development, AI, or other technical roles where I can build impactful solutions and grow professionally.
+I am now looking for my next challenge in the high-tech industry - stepping into software development, AI, or other technical roles where I can build impactful solutions and grow professionally.
 
 Feel free to reach out!
 
