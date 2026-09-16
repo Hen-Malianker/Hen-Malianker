@@ -1,14 +1,13 @@
 <div align="center">
-<img src="profile_terminal.svg?v=7" alt="Hen Malianker Neural Profile" width="100%" />
+<img src="profile_terminal.svg?v=8" alt="Hen Malianker Neural Profile" width="100%" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hen-malyanker&color=58a6ff&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hen--malianker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hen-malianker)
 [![Email](https://img.shields.io/badge/Email-hen88275%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white)](mailto:hen88275@gmail.com)
-
 </div>
----
+
 
 ### 🚀 About Me
 
