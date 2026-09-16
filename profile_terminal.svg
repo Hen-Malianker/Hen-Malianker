@@ -33,7 +33,6 @@
     
     <style>
       .tiny { fill:#4fbfe8; font-size:8px; letter-spacing:1.5px; }
-      .path { fill:#82aac3; font-size:11px; letter-spacing:.6px; }
       .label { fill:#43d1ff; font-size:11.5px; letter-spacing:.6px; font-weight:700; }
       .value { fill:#d5efff; font-size:11.5px; }
       .section { fill:#9feaff; font-size:11px; font-weight:700; letter-spacing:1.4px; }
@@ -84,7 +83,7 @@
     <text x="50" y="220" class="intro-text typing-3">>_ ACCESS GRANTED. LOADING PROFILE<tspan class="blink">_</tspan></text>
   </g>
 
-  <!-- MAIN UI (Fades in after 2.2s together with the GIF) -->
+  <!-- MAIN UI -->
   <g class="main-ui">
     <rect x="20" y="47" width="360" height="320" rx="10" fill="url(#panel)" stroke="#167aa8" stroke-opacity=".65"/>
     <rect x="397" y="47" width="483" height="320" rx="10" fill="url(#panel)" stroke="#167aa8" stroke-opacity=".65"/>
@@ -94,9 +93,9 @@
     <text x="35" y="66" class="header">VISUAL.MAP / AVATAR-SCAN</text>
     <text x="365" y="66" text-anchor="end" class="tiny">LIVE_FEED</text>
     
-    <!-- Embedded GIF natively inside the left box -->
+    <!-- Embedded Custom Image scan2.jpg inside left box -->
     <g clip-path="url(#leftBoxClip)">
-      <image href="scan.gif" x="35" y="85" width="330" height="270" preserveAspectRatio="xMidYMid slice"/>
+      <image href="scan2.jpg" x="25" y="78" width="350" height="282" preserveAspectRatio="xMidYMid slice"/>
     </g>
 
     <!-- Information Panel -->
