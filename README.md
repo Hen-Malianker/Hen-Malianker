@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile_terminal.svg?v=8" alt="Hen Malianker Neural Profile" width="100%" />
+<img src="profile_terminal.svg?v=9" alt="Hen Malianker Neural Profile" width="100%" />
 
 <br/>
 
