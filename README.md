@@ -15,6 +15,8 @@ Currently seeking the next challenge in the high-tech industry — stepping into
 
 Open for connections and outreach!
 
+<br/>
+<br/>
 
 ### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[DEPENDENCIES]" alt="Dependencies" />
 <p>
