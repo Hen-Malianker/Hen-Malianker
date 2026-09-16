@@ -1,6 +1,5 @@
 
-
-<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" font-family="'Orbitron','Rajdhani','SFMono-Regular',Consolas,monospace">
+<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'Orbitron','Rajdhani','SFMono-Regular',Consolas,monospace">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#030918"/>
@@ -30,11 +29,11 @@
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
     <clipPath id="cardClip"><rect x="20" y="46" width="860" height="322" rx="10"/></clipPath>
+    <clipPath id="leftBoxClip"><rect x="25" y="78" width="350" height="282" rx="6"/></clipPath>
     
     <style>
       .tiny { fill:#4fbfe8; font-size:8px; letter-spacing:1.5px; }
       .path { fill:#82aac3; font-size:11px; letter-spacing:.6px; }
-      .art { fill:#36caff; font-size:4.1px; opacity:.86; }
       .label { fill:#43d1ff; font-size:11.5px; letter-spacing:.6px; font-weight:700; }
       .value { fill:#d5efff; font-size:11.5px; }
       .section { fill:#9feaff; font-size:11px; font-weight:700; letter-spacing:1.4px; }
@@ -45,7 +44,6 @@
       @keyframes flicker { 0%,92%,100%{opacity:1}94%{opacity:.72}96%{opacity:.95} }
       .hud { animation:flicker 4s infinite; }
       
-      /* New Intro Sequence Animations */
       .main-ui { opacity: 0; animation: uiAppear .6s 2.2s ease-out forwards; }
       @keyframes uiAppear { from { opacity: 0; } to { opacity: 1; } }
       
@@ -72,39 +70,36 @@
   <rect x="1" y="1" width="898" height="398" rx="13" fill="none" stroke="#177eac" stroke-opacity=".7"/>
   <rect x="0" y="0" width="900" height="400" rx="14" fill="url(#grid)" opacity=".45"/>
 
-  <!-- Futuristic Titlebar (Always Visible) -->
+  <!-- Futuristic Titlebar -->
   <path d="M0 14Q0 0 14 0H886Q900 0 900 14V36H0Z" fill="#071426" stroke="#176a9d" stroke-opacity=".8"/>
   <path d="M18 35H882" stroke="#26c7ff" stroke-opacity=".35"/>
   <circle cx="22" cy="18" r="5" fill="#ff4e7a"/><circle cx="40" cy="18" r="5" fill="#ffca4c"/><circle cx="58" cy="18" r="5" fill="#21e5a3"/>
   <text x="85" y="22" class="tiny">HEN.MALIANKER // NEURAL_PROFILE</text>
   <text x="856" y="22" text-anchor="end" class="tiny hud">SYS: ONLINE</text>
 
-  <!-- INTRO BOOT SCREEN (Fades out after 2.2s) -->
+  <!-- INTRO BOOT SCREEN -->
   <g class="intro-screen">
     <text x="50" y="140" class="intro-text typing-1">>_ ESTABLISHING SECURE CONNECTION...</text>
     <text x="50" y="180" class="intro-text typing-2">>_ AUTHENTICATING ID: 0xH3N...</text>
     <text x="50" y="220" class="intro-text typing-3">>_ ACCESS GRANTED. LOADING PROFILE<tspan class="blink">_</tspan></text>
   </g>
 
-  <!-- MAIN UI (Fades in after 2.2s) -->
+  <!-- MAIN UI (Fades in after 2.2s together with the GIF) -->
   <g class="main-ui">
-    
-    <!-- panels -->
     <rect x="20" y="47" width="360" height="320" rx="10" fill="url(#panel)" stroke="#167aa8" stroke-opacity=".65"/>
     <rect x="397" y="47" width="483" height="320" rx="10" fill="url(#panel)" stroke="#167aa8" stroke-opacity=".65"/>
     <path d="M20 76H380M397 76H880" stroke="#27cbff" stroke-opacity=".42"/>
     <path d="M25 52h23M20 52v23M352 362h23M375 339v23M402 52h23M402 52v23M852 362h23M875 339v23" fill="none" stroke="#3ad3ff" stroke-width="1.4"/>
 
-    <!-- visual area -->
     <text x="35" y="66" class="header">VISUAL.MAP / AVATAR-SCAN</text>
     <text x="365" y="66" text-anchor="end" class="tiny">LIVE_FEED</text>
     
-    <g transform="translate(35 35) scale(0.96 0.96)">
-
-      
+    <!-- Embedded GIF natively inside the left box -->
+    <g clip-path="url(#leftBoxClip)">
+      <image href="scan.gif" x="35" y="85" width="330" height="270" preserveAspectRatio="xMidYMid slice"/>
     </g>
 
-    <!-- information panel (Delays offset by 2.4s to start after boot) -->
+    <!-- Information Panel -->
     <g class="reveal" style="animation-delay:2.65s">
       <text x="422" y="68" class="tiny">PROFILE // 01</text>
       <text x="422" y="93" class="name">HEN MALIANKER</text>
@@ -139,7 +134,7 @@
       <text x="650" y="358" class="value">www.linkedin.com/in/hen-malianker</text>
     </g>
 
-    <!-- thin blue scanner: Starts ONLY after the UI boots (at 2.6s) -->
+    <!-- Scanner Animation -->
     <g clip-path="url(#cardClip)">
       <rect x="20" y="44" width="860" height="20" fill="#20c8ff" opacity="0" filter="url(#softGlow)">
         <animate attributeName="y" from="42" to="360" begin="2.6s" dur="2.5s" fill="freeze"/>
