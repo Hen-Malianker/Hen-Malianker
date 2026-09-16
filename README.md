@@ -1,15 +1,8 @@
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none; background: #030918;">
-  <tr>
-    <td align="center" width="39%" style="border: none; padding: 0; background: #030918;">
-      <img src="scan.gif" width="360" height="320" style="border-radius: 6px 0 0 6px; display: block;" alt="Neural Avatar Scan" />
-    </td>
-    <td align="center" width="61%" style="border: none; padding: 0; background: #030918;">
-      <img src="scan.gif" width="360" height="320" style="border-radius: 8px; display: block; object-fit: cover;" alt="Neural Avatar Scan" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/hen-malianker"><img src="scan.gif" width="360" height="320" alt="Avatar Scan" style="border-radius: 8px 0 0 8px; vertical-align: middle; object-fit: cover;" /></a><img src="profile_terminal.svg" width="530" height="320" alt="Terminal Profile" style="vertical-align: middle;" />
+</p>
 
 <br/>
 
