@@ -8,8 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-hen88275%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white)](mailto:hen88275@gmail.com)
 </div>
 
-
-### 🚀 About Me
+### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&color=00FF00&vCenter=true&lines=[USER+_PROFILE]" alt="[USER_PROFILE]" />
 
 Third-year Computer Science (B.Sc.) student in the AI track at SCE. I love coding and bringing ideas to life, with a strong interest in artificial intelligence and gaming. I combine analytical thinking with my passion for development to build robust applications. 
 
@@ -17,7 +16,8 @@ I am now looking for my next challenge in the high-tech industry - stepping into
 
 Feel free to reach out!
 
-### 🛠️ Tech Stack & Tools
+
+### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&color=00FF00&vCenter=true&lines=[DEPENDENCIES]" alt="[DEPENDENCIES]" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" alt="Python" />
@@ -36,10 +36,8 @@ Feel free to reach out!
 
 <br/><br/><br/>
 
-### 💬 Tech Quote
 
-> *"Simplicity is prerequisite for reliability."* 
-> — **Edsger W. Dijkstra**
+
 
 <br/>
 
