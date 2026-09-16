@@ -1,5 +1,15 @@
 <div align="center">
-<img src="./profile_terminal.svg" alt="hen-malyanker terminal profile" width="100%" />
+
+<table width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td align="center" width="45%" style="border: none; padding: 0;">
+      <img src="scan.gif?v=2" width="365" height="325" style="border-radius: 8px;" alt="Neural Avatar Scan" />
+    </td>
+    <td align="center" width="55%" style="border: none; padding: 0;">
+      <img src="profile_terminal.svg?v=2" width="470" alt="Neural Profile Details" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
