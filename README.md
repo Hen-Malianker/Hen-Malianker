@@ -45,7 +45,7 @@ Feel free to reach out!
 
 <br/>
 
-### ❤️ Status & Pulse
+
 <div align="center">
   <img src="gemini-svg.svg" alt="Green Heartbeat Pulse" width="100%">
 </div>
