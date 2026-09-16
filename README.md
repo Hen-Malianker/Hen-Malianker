@@ -43,7 +43,7 @@ Feel free to reach out!
 
 
 <div align="center">
-  <img src="gemini-svg.svg" alt="Green Heartbeat Pulse" width="100%">
+  <img src="gemini-svg.svg" alt="Green Heartbeat Pulse" width="50%">
 </div>
 
 <br/>
