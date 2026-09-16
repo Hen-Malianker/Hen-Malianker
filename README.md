@@ -23,7 +23,7 @@ Open for connections and outreach!
 
 ### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[+DEPENDENCIES+]" alt="Dependencies" />
 <p>
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" alt="C" />
@@ -35,7 +35,7 @@ Open for connections and outreach!
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="25" alt="PyCharm" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VirtualBox-215732?style=for-the-badge&logo=virtualbox&logoColor=white" height="25" alt="VirtualBox" />
-</p>
+</div>
 </p>
 
 
