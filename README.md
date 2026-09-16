@@ -1,15 +1,5 @@
 <div align="center">
-
-<table width="100%" style="border: none; background: transparent;">
-  <tr>
-    <td align="center" width="45%" style="border: none; padding: 0;">
-      <img src="scan.gif?v=2" width="365" height="325" style="border-radius: 8px;" alt="Neural Avatar Scan" />
-    </td>
-    <td align="center" width="55%" style="border: none; padding: 0;">
-      <img src="profile_terminal.svg?v=2" width="470" alt="Neural Profile Details" />
-    </td>
-  </tr>
-</table>
+<img src="profile_terminal.svg?v=3" alt="Hen Malianker Neural Profile" width="100%" />
 
 <br/>
 
@@ -18,6 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-hen88275%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white)](mailto:hen88275@gmail.com)
 
 </div>
+
+
 
 ---
 
