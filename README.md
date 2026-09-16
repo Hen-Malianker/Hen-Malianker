@@ -6,7 +6,7 @@
       <img src="scan.gif" width="360" height="320" style="border-radius: 6px 0 0 6px; display: block;" alt="Neural Avatar Scan" />
     </td>
     <td align="center" width="61%" style="border: none; padding: 0; background: #030918;">
-      <img src="profile_terminal.svg" width="525" style="border-radius: 0 6px 6px 0; display: block;" alt="Neural Profile Details" />
+      <img src="scan.gif" width="360" height="320" style="border-radius: 8px; display: block; object-fit: cover;" alt="Neural Avatar Scan" />
     </td>
   </tr>
 </table>
