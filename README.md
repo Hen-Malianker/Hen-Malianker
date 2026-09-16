@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-hen88275%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white)](mailto:hen88275@gmail.com)
 </div>
 
-### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[USER_PROFILE]" alt="User Profile" />
+### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[+USER_PROFILE+]" alt="User Profile" />
 A third-year Computer Science (B.Sc.) student in the AI track at SCE, passionate about coding and bringing ideas to life. Strongly interested in artificial intelligence and gaming, combining analytical thinking with a drive for development to build robust applications.
 
 Currently seeking the next challenge in the high-tech industry — stepping into software development, AI, or other technical roles to build impactful solutions and achieve professional growth.
@@ -18,7 +18,7 @@ Open for connections and outreach!
 <br/>
 <br/>
 
-### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[DEPENDENCIES]" alt="Dependencies" />
+### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[+DEPENDENCIES+]" alt="Dependencies" />
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="20" alt="C++" />
