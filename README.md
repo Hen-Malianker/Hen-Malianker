@@ -3,9 +3,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hen-malyanker&color=58a6ff&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hen--malianker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hen-malianker)
-[![Email](https://img.shields.io/badge/Email-hen88275%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white)](mailto:hen88275@gmail.com)
+
 </div>
 
 ### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[+USER_PROFILE+]" alt="User Profile" />
@@ -14,6 +12,11 @@ A third-year Computer Science (B.Sc.) student in the AI track at SCE, passionate
 Currently seeking the next challenge in the high-tech industry — stepping into software development, AI, or other technical roles to build impactful solutions and achieve professional growth.
 
 Open for connections and outreach!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hen-malianker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hen88275@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 <br/>
 <br/>
