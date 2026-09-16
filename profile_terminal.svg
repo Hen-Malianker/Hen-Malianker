@@ -93,9 +93,9 @@
     <text x="35" y="66" class="header">VISUAL.MAP / AVATAR-SCAN</text>
     <text x="365" y="66" text-anchor="end" class="tiny">LIVE_FEED</text>
     
-    <!-- Embedded Custom Image scan2.jpg inside left box -->
+   <!-- Embedded Custom Image via GitHub Raw URL -->
     <g clip-path="url(#leftBoxClip)">
-      <image href="scan2.jpg" x="25" y="78" width="350" height="282" preserveAspectRatio="xMidYMid slice"/>
+      <image href="https://raw.githubusercontent.com/hen-malianker/hen-malianker/main/scan2.jpg" x="25" y="78" width="350" height="282" preserveAspectRatio="xMidYMid slice"/>
     </g>
 
     <!-- Information Panel -->
