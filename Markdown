@@ -2,13 +2,19 @@
 
 <table width="100%" style="border: none; background: transparent;">
   <tr>
-    <td align="center" width="40%" style="border: none; padding: 0;">
-      <img src="scan.gif" width="345" height="305" style="border-radius: 8px;" alt="Neural Avatar Scan" />
+    <td align="center" width="45%" style="border: none; padding: 0;">
+      <img src="scan.gif" width="365" height="325" style="border-radius: 8px;" alt="Neural Avatar Scan" />
     </td>
-    <td align="center" width="60%" style="border: none; padding: 0;">
-      <img src="profile_terminal.svg" width="530" alt="Neural Profile Details" />
+    <td align="center" width="55%" style="border: none; padding: 0;">
+      <img src="profile_terminal.svg" width="470" alt="Neural Profile Details" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hen-malyanker&color=58a6ff&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hen--malianker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hen-malianker)
+[![Email](https://img.shields.io/badge/Email-hen88275%40gmail.com-c9d1d9?style=flat-square&logo=gmail&logoColor=white)](mailto:hen88275@gmail.com)
 
 </div>
