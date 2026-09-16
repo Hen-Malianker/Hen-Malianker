@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="100%" height="75">
+  <style>
+    .pulse-line {
+      fill: none;
+      stroke: #00ff00;
+      stroke-width: 2px;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      filter: drop-shadow(0px 0px 4px rgba(0, 255, 0, 0.8));
+      stroke-dasharray: 4000;
+      stroke-dashoffset: 4000;
+      animation: draw 5s linear infinite;
+    }
+    @keyframes draw {
+      0% { stroke-dashoffset: 4000; }
+      100% { stroke-dashoffset: 0; }
+    }
+  </style>
+  
+  <!-- קו שכולל עליות וירידות בהתחלה ובסוף, ולב יציב וברור במרכז -->
+  <path class="pulse-line" d="
+    M 0,50 
+    
+    L 80,50 
+    L 90,30 L 105,80 L 115,50 
+    
+    L 260,50 
+    L 270,10 L 290,90 L 300,50 
+    
+    L 415,50 
+    L 423,65 L 431,10 L 440,75 L 448,50 
+    
+    C 430,22  465,2   496,25
+    C 500,28  500,28  504,25
+    C 535,2   570,22  552,50
+    C 542,65  522,80  500,90
+    C 491,82  485,73  475,60 
+    L 485,50 
+    
+    L 548,50
+    L 556,65 L 564,10 L 573,75 L 581,50
+    
+    L 700,50 
+    L 710,15 L 730,85 L 740,50
+    
+    L 880,50 
+    L 890,35 L 905,65 L 915,50
+    
+    L 1000,50
+  " />
+</svg>
