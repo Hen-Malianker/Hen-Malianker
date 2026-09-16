@@ -1,8 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/hen-malianker"><img src="scan.gif" width="360" height="320" alt="Avatar Scan" style="border-radius: 8px 0 0 8px; vertical-align: middle; object-fit: cover;" /></a><img src="profile_terminal.svg" width="530" height="320" alt="Terminal Profile" style="vertical-align: middle;" />
+  <a href="https://github.com/hen-malianker"><img src="scan.gif" width="160" height="160" alt="Avatar Scan" style="border-radius: 6px; vertical-align: middle; object-fit: cover; margin-right: -5px; margin-bottom: 90px;" /></a><img src="profile_terminal.svg" width="530" height="320" alt="Terminal Profile" style="vertical-align: middle;" />
 </p>
+
+<br/>
 
 <br/>
 
