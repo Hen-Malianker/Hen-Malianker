@@ -15,6 +15,8 @@ Currently seeking the next challenge in the high-tech industry — stepping into
 
 Open for connections and outreach!
 
+<br clear="all"/>
+<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/hen-malianker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hen88275@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
