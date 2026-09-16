@@ -1,0 +1,14 @@
+<div align="center">
+
+<table width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td align="center" width="40%" style="border: none; padding: 0;">
+      <img src="scan.gif" width="345" height="305" style="border-radius: 8px;" alt="Neural Avatar Scan" />
+    </td>
+    <td align="center" width="60%" style="border: none; padding: 0;">
+      <img src="profile_terminal.svg" width="530" alt="Neural Profile Details" />
+    </td>
+  </tr>
+</table>
+
+</div>
