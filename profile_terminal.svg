@@ -1,139 +1,198 @@
 
-<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowNGMwZTdlYi05YzM2LTRlNTctOWU2Ny04Nzk4ZDdkMGVmNmEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCgfq4NunI+D2vBbn1h1UIEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxZWIwMTBjNS02OWNkLTRiMWYtYjM0OC1jYzI3ZjIyYTljMjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNolDLpSgOk0knLue/HqP42fQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg0jGZ5CB3fIWT3vsQP3axz4ZTOsI8vOO+Jb3kNDhoj3CkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBtbqEpTWZskEPk/2iAjaccAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBaZO1PnVQJc3JX80GYF8gUXUbiXizOe0+dAaXHD9JMtGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA0YzBlN2ViLTljMzYtNGU1Ny05ZTY3LTg3OThkN2QwZWY2YS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQzY2U3NTI5LTBmMDUtNDlmNy1iNWMwLTAyNmQ1ODhlNGI2N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDSMZnkIHd8hZPe+xA/drHPhlM6wjy8474lveQ0OGiPcKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggrfxnYDlPDK4U7/fV9tffShK1tKqDjtTkAqWbTL7p3CqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg5WxNuIJBvh74cbkz6ntWHykMmN5lMFXR1uFo1Ho0NZ10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKa8/2SNpwrVhreK+iQ36riJoChDmirmhRjzrmDm1mMMdZHzJKO+7LEPCeygYD2EYMXA7S4cn/9thaik6Hgi1ow=</c2pa:manifest></metadata>
+<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" font-family="'Orbitron','Rajdhani','SFMono-Regular',Consolas,monospace">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a0e14"/>
+      <stop offset="0%" stop-color="#030918"/>
+      <stop offset="48%" stop-color="#07152a"/>
+      <stop offset="100%" stop-color="#020612"/>
     </linearGradient>
-    <style>
-      .titlebar { fill: #161b22; }
-      .path { fill: #8b949e; font-size: 12px; }
-      .art { fill: #58a6ff; font-size: 4.2px; }
-      .label { fill: #7ee787; font-size: 13px; font-weight: bold; }
-      .value { fill: #c9d1d9; font-size: 13px; }
-      .section { fill: #ff7b72; font-size: 13px; font-weight: bold; }
-      .header { fill: #d2a8ff; font-size: 15px; font-weight: bold; }
-      .name { fill: #ffffff; font-size: 15px; font-weight: bold; }
-    </style>
+    <radialGradient id="orb" cx="50%" cy="0%" r="85%">
+      <stop offset="0%" stop-color="#103f76" stop-opacity=".66"/>
+      <stop offset="60%" stop-color="#071224" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#00030b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081b34" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#030a16" stop-opacity=".88"/>
+    </linearGradient>
     <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#7ee787" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7ee787" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#7ee787" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#21ccff" stop-opacity="0"/>
+      <stop offset="37%" stop-color="#21ccff" stop-opacity=".18"/>
+      <stop offset="48%" stop-color="#d9f8ff" stop-opacity="1"/>
+      <stop offset="54%" stop-color="#28c8ff" stop-opacity="1"/>
+      <stop offset="68%" stop-color="#28c8ff" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#28c8ff" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="cardClip">
-      <rect x="20" y="46" width="860" height="322" rx="4"/>
-    </clipPath>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M18 0H0V18" fill="none" stroke="#23bfff" stroke-opacity=".08" stroke-width=".6"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+    <clipPath id="cardClip"><rect x="20" y="46" width="860" height="322" rx="10"/></clipPath>
+    
+    <style>
+      .tiny { fill:#4fbfe8; font-size:8px; letter-spacing:1.5px; }
+      .path { fill:#82aac3; font-size:11px; letter-spacing:.6px; }
+      .art { fill:#36caff; font-size:4.1px; opacity:.86; }
+      .label { fill:#43d1ff; font-size:11.5px; letter-spacing:.6px; font-weight:700; }
+      .value { fill:#d5efff; font-size:11.5px; }
+      .section { fill:#9feaff; font-size:11px; font-weight:700; letter-spacing:1.4px; }
+      .header { fill:#5be0ff; font-size:11px; font-weight:700; letter-spacing:2px; }
+      .name { fill:#fff; font-size:18px; font-weight:700; letter-spacing:1px; }
+      .reveal { opacity:0; animation:reveal .42s ease-out forwards; }
+      @keyframes reveal { from { opacity:0; transform:translateY(-4px); } to { opacity:1; transform:translateY(0); } }
+      @keyframes flicker { 0%,92%,100%{opacity:1}94%{opacity:.72}96%{opacity:.95} }
+      .hud { animation:flicker 4s infinite; }
+      
+      /* New Intro Sequence Animations */
+      .main-ui { opacity: 0; animation: uiAppear .6s 2.2s ease-out forwards; }
+      @keyframes uiAppear { from { opacity: 0; } to { opacity: 1; } }
+      
+      .intro-screen { animation: hideIntro .4s 2.2s forwards; }
+      @keyframes hideIntro { to { opacity: 0; visibility: hidden; } }
+      
+      .intro-text { font-size: 14px; font-weight: 700; letter-spacing: 1.5px; font-family: 'SFMono-Regular', Consolas, monospace; }
+      .typing-1 { opacity: 0; animation: step1 2.2s forwards; fill: #4fbfe8; }
+      .typing-2 { opacity: 0; animation: step2 2.2s forwards; fill: #4fbfe8; }
+      .typing-3 { opacity: 0; animation: step3 2.2s forwards; fill: #21e5a3; }
+      
+      @keyframes step1 { 0% { opacity:0; } 5% { opacity:1; } 100% { opacity:1; } }
+      @keyframes step2 { 0%, 30% { opacity:0; } 35% { opacity:1; } 100% { opacity:1; } }
+      @keyframes step3 { 0%, 65% { opacity:0; } 70% { opacity:1; } 100% { opacity:1; } }
+      
+      .blink { animation: blinker 0.8s step-start infinite; }
+      @keyframes blinker { 50% { opacity: 0; } }
+    </style>
   </defs>
 
-  <rect x="0" y="0" width="900" height="400" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Background Layer -->
+  <rect width="900" height="400" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="400" rx="14" fill="url(#orb)"/>
+  <rect x="1" y="1" width="898" height="398" rx="13" fill="none" stroke="#177eac" stroke-opacity=".7"/>
+  <rect x="0" y="0" width="900" height="400" rx="14" fill="url(#grid)" opacity=".45"/>
 
-  <!-- title bar -->
-  <rect x="0" y="0" width="900" height="34" rx="12" class="titlebar"/>
-  <rect x="0" y="20" width="900" height="14" class="titlebar"/>
-  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
-  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
-  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
-  <text x="450" y="21" text-anchor="middle" class="path">hen-malianker / README.md</text>
+  <!-- Futuristic Titlebar (Always Visible) -->
+  <path d="M0 14Q0 0 14 0H886Q900 0 900 14V36H0Z" fill="#071426" stroke="#176a9d" stroke-opacity=".8"/>
+  <path d="M18 35H882" stroke="#26c7ff" stroke-opacity=".35"/>
+  <circle cx="22" cy="18" r="5" fill="#ff4e7a"/><circle cx="40" cy="18" r="5" fill="#ffca4c"/><circle cx="58" cy="18" r="5" fill="#21e5a3"/>
+  <text x="85" y="22" class="tiny">HEN.MALIANKER // NEURAL_PROFILE</text>
+  <text x="856" y="22" text-anchor="end" class="tiny hud">SYS: ONLINE</text>
 
-  <!-- divider between panels -->
-  <line x1="400" y1="50" x2="400" y2="380" stroke="#30363d" stroke-width="1"/>
-
-  <!-- left panel: ascii art -->
-  <text x="35" y="55" class="header">VISUAL.MAP</text>
-  <text x="35" y="62.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⠚⠛⠃⠀⠀⠀⠀⠀⠈⠛⠶⠖⠲⠤⢤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="66.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="71.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="76.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠟⢁⡴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="81.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⢁⣴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="86.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠏⢠⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⣄⡀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="90.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠁⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡴⠖⠒⠒⠒⠒⠒⠛⠀⠀⠀⠀⠀⠀⠀⠘⢦⡀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="95.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣠⠀⠀⠀⠀⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="100.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⢀⣀⡴⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡆⠀⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="105.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⡼⠃⠀⠀⠀⠀⢀⡤⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="110.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠀⠀⣸⢡⣶⡄⠀⠀⢰⠋⠀⠀⠀⣠⡴⣒⣋⡩⠿⠧⢤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="114.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠁⠀⢠⡏⠀⣷⡇⢀⡾⣿⠀⠀⠀⠘⠛⠉⠉⠉⠉⠛⠶⣤⡈⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠀⠀⠀⠀⠀⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="119.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⣼⠀⠀⠉⠁⢘⡿⠃⠀⠀⠀⠀⠀⡤⣖⣶⣶⣶⢦⣀⠙⠳⣄⡘⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="124.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⠀⠀⠀⠁⠀⡤⡼⣿⣼⠁⠀⠀⠀⠀⠀⠀⠻⡿⣿⣿⣿⣷⣺⣷⠀⢀⠀⠀⠀⠀⢀⡴⠶⠤⠴⠶⠦⠤⠴⠀⠀⣿⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="129.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⠀⠀⣴⣇⣧⡿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠓⢿⣟⣪⠇⣾⠀⠀⠀⣠⠾⠑⢒⣒⠶⠶⠶⠤⡄⠀⠀⣿⠀⠀⠀⠀⠀⠀⢹⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="134.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⠀⢰⠏⠈⢩⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣽⠞⠃⠀⠀⢰⠏⣠⣞⢿⡯⣭⣿⣷⣆⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="138.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠸⣆⣀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⢸⠀⠛⠛⣯⣁⣼⣻⠂⠁⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="143.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠈⠉⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠉⢹⡃⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⠸⡦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="148.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⢠⣷⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="153.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣤⡀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="158.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠈⠉⠙⣛⣂⣀⡾⠃⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡎⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="162.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠸⠿⢿⣲⡦⡤⠤⠄⠀⠈⠉⢠⠉⠀⠀⠀⠀⠀⠀⠀⢠⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="167.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣦⣤⣐⠒⠚⠀⣀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="172.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠈⠙⠛⠻⠿⠉⠉⠁⠀⠀⣠⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢹⣼⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="177.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢸⡍⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="182.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠁⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="186.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣆⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣤⣀⡀⠀⠀⣀⣠⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⡄⢳⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="191.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⢰⠇⠀⠀⠀⠀⠀⠀⠀⠀⣀⡟⡾⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="196.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⣠⠟⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⢰⢿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣸⣿⢧⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="201.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢁⡼⠋⠀⠀⠀⠀⠀⢀⣀⣠⠟⠀⠀⡿⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡏⣽⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="206.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⡞⣁⣀⣠⡤⠤⠴⠞⠋⠋⠀⠀⠀⢰⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠣⣿⡿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="210.8" class="art">⠀⠀⠀⠀⠀⣀⣀⣤⠴⠶⠚⠁⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠃⢀⣿⣞⣁⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="215.6" class="art">⠀⠒⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢇⣟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡰⣏⣠⡤⠼⠿⠟⠓⠒⠲⢤⡀⠀⠀⠀⠀⠀</text>
-    <text x="35" y="220.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⣸⠸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣦⠀⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀</text>
-    <text x="35" y="225.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢱⠿⡆⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡋⣡⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡆⠀⠀⠀</text>
-    <text x="35" y="230.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⢸⢠⡇⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣷⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀</text>
-    <text x="35" y="234.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠯⠷⠀⠀⠀⠀⠀⠀⠀⢰⢇⣿⠀⠀⠀⠀⠀⠀⠀⣰⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⠈⢘⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀</text>
-    <text x="35" y="239.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⣸⠁⠀⠀⠀⠀⠀⠀⠀⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⠀⠀⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣆⠘⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀</text>
-    <text x="35" y="244.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢧⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣆⠀⡇⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀</text>
-    <text x="35" y="249.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠸⡄⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣆⢻⢨⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀</text>
-    <text x="35" y="254.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢷⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⢠⡏⡇⠀⠀⠀⠀⠀⠀⠀⠀⢷⠀⢸⡆⠀⠀⠀⠰⡆⠀⠀⠀⠀⠸⡾⢼⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀</text>
-    <text x="35" y="258.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⣼⢰⠇⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⢷⠀⠀⠀⠀⢳⠀⠀⠀⠀⠀⠀⠈⣯⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀</text>
-    <text x="35" y="263.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣷⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⡟⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⢸⡌⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀</text>
-    <text x="35" y="268.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⡟⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⢸⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀</text>
-    <text x="35" y="273.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣻⠃⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣷⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀</text>
-
-  <!-- right panel: info card -->
-  <text x="425" y="58" class="name">Hen Malianker</text>
-
-  <text x="425" y="85" class="label">Status</text>
-  <text x="560" y="85" class="value">B.Sc. CS Student @ SCE (AI Track)</text>
-
-  <text x="425" y="106" class="label">Location</text>
-  <text x="560" y="106" class="value">Israel</text>
-
-  <line x1="425" y1="120" x2="860" y2="120" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
-
-  <text x="425" y="142" class="label">Languages.Prog</text>
-  <text x="560" y="142" class="value">Python, Java, C++, C, Assembly (x86)</text>
-
-  <text x="425" y="163" class="label">Languages.Tools</text>
-  <text x="560" y="163" class="value">VS Code, PyCharm, Linux, Git, Colab</text>
-
-  <line x1="425" y1="177" x2="860" y2="177" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
-
-  <text x="425" y="200" class="section">| Current Focus |</text>
-
-  <text x="425" y="223" class="label">Specialization</text>
-  <text x="580" y="223" class="value">Artificial Intelligence</text>
-
-  <text x="425" y="244" class="label">Final Project</text>
-  <text x="560" y="244" class="value">Defensive Drone Interception System</text>
-
-  <text x="425" y="265" class="label">Core Skills</text>
-  <text x="560" y="265" class="value">Data Structures, Algorithms, OOP, ML</text>
-
-  <line x1="425" y1="279" x2="860" y2="279" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
-
-  <text x="425" y="302" class="section">| Contact |</text>
-
-  <text x="425" y="325" class="label">Email</text>
-  <text x="560" y="325" class="value">hen88275@gmail.com</text>
-
-  <text x="425" y="346" class="label">LinkedIn</text>
-  <text x="560" y="346" class="value">linkedin.com/in/hen-malianker</text>
-
-  <line x1="425" y1="360" x2="860" y2="360" stroke="#21262d" stroke-width="1" stroke-dasharray="2,2"/>
-
-  <!-- animated scan line sweeping over the WHOLE card (art + info) -->
-  <g clip-path="url(#cardClip)">
-    <rect x="20" y="46" width="860" height="12" fill="url(#scanGrad)">
-      <animate attributeName="y" values="44;360;44" dur="3.6s" repeatCount="indefinite"/>
-    </rect>
+  <!-- INTRO BOOT SCREEN (Fades out after 2.2s) -->
+  <g class="intro-screen">
+    <text x="50" y="140" class="intro-text typing-1">>_ ESTABLISHING SECURE CONNECTION...</text>
+    <text x="50" y="180" class="intro-text typing-2">>_ AUTHENTICATING ID: 0xH3N...</text>
+    <text x="50" y="220" class="intro-text typing-3">>_ ACCESS GRANTED. LOADING PROFILE<tspan class="blink">_</tspan></text>
   </g>
 
-  <text x="450" y="392" text-anchor="middle" class="path" opacity="0.6">~/hen-malianker $ _</text>
+  <!-- MAIN UI (Fades in after 2.2s) -->
+  <g class="main-ui">
+    
+    <!-- panels -->
+    <rect x="20" y="47" width="360" height="320" rx="10" fill="url(#panel)" stroke="#167aa8" stroke-opacity=".65"/>
+    <rect x="397" y="47" width="483" height="320" rx="10" fill="url(#panel)" stroke="#167aa8" stroke-opacity=".65"/>
+    <path d="M20 76H380M397 76H880" stroke="#27cbff" stroke-opacity=".42"/>
+    <path d="M25 52h23M20 52v23M352 362h23M375 339v23M402 52h23M402 52v23M852 362h23M875 339v23" fill="none" stroke="#3ad3ff" stroke-width="1.4"/>
+
+    <!-- visual area -->
+    <text x="35" y="66" class="header">VISUAL.MAP / AVATAR-SCAN</text>
+    <text x="365" y="66" text-anchor="end" class="tiny">LIVE_FEED</text>
+    
+    <g transform="translate(35 35) scale(0.96 0.96)">
+        <text x="35" y="62.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⠚⠛⠃⠀⠀⠀⠀⠀⠈⠛⠶⠖⠲⠤⢤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="66.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="71.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="76.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠟⢁⡴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="81.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⢁⣴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="86.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠏⢠⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⣄⡀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="90.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠁⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡴⠖⠒⠒⠒⠒⠒⠛⠀⠀⠀⠀⠀⠀⠀⠘⢦⡀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="95.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣠⠀⠀⠀⠀⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="100.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⢀⣀⡴⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡆⠀⠀⠀⠈⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="105.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⡼⠃⠀⠀⠀⠀⢀⡤⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="110.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠀⠀⣸⢡⣶⡄⠀⠀⢰⠋⠀⠀⠀⣠⡴⣒⣋⡩⠿⠧⢤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="114.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠁⠀⢠⡏⠀⣷⡇⢀⡾⣿⠀⠀⠀⠘⠛⠉⠉⠉⠉⠛⠶⣤⡈⠛⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠀⠀⠀⠀⠀⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="119.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⣼⠀⠀⠉⠁⢘⡿⠃⠀⠀⠀⠀⠀⡤⣖⣶⣶⣶⢦⣀⠙⠳⣄⡘⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="124.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⠀⠀⠀⠁⠀⡤⡼⣿⣼⠁⠀⠀⠀⠀⠀⠀⠻⡿⣿⣿⣿⣷⣺⣷⠀⢀⠀⠀⠀⠀⢀⡴⠶⠤⠴⠶⠦⠤⠴⠀⠀⣿⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="129.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⠀⠀⣴⣇⣧⡿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠓⢿⣟⣪⠇⣾⠀⠀⠀⣠⠾⠑⢒⣒⠶⠶⠶⠤⡄⠀⠀⣿⠀⠀⠀⠀⠀⠀⢹⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="134.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⠀⢰⠏⠈⢩⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣽⠞⠃⠀⠀⢰⠏⣠⣞⢿⡯⣭⣿⣷⣆⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="138.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠸⣆⣀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⢸⠀⠛⠛⣯⣁⣼⣻⠂⠁⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="143.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⠈⠉⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠉⢹⡃⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⠸⡦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="148.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⢠⣷⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="153.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣤⡀⠀⠀⠀⣸⠀⠀⠀⠀⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="158.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠈⠉⠙⣛⣂⣀⡾⠃⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡎⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="162.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠸⠿⢿⣲⡦⡤⠤⠄⠀⠈⠉⢠⠉⠀⠀⠀⠀⠀⠀⠀⢠⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⢹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="167.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣷⣦⣤⣐⠒⠚⠀⣀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="172.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠈⠙⠛⠻⠿⠉⠉⠁⠀⠀⣠⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢹⣼⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="177.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢸⡍⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="182.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠁⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="186.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡞⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣆⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣤⣀⡀⠀⠀⣀⣠⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⡄⢳⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="191.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⢰⠇⠀⠀⠀⠀⠀⠀⠀⠀⣀⡟⡾⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="196.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⣠⠟⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⢰⢿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣸⣿⢧⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="201.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢁⡼⠋⠀⠀⠀⠀⠀⢀⣀⣠⠟⠀⠀⡿⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡏⣽⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="206.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⡞⣁⣀⣠⡤⠤⠴⠞⠋⠋⠀⠀⠀⢰⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠣⣿⡿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="210.8" class="art">⠀⠀⠀⠀⠀⣀⣀⣤⠴⠶⠚⠁⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⣸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠃⢀⣿⣞⣁⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="215.6" class="art">⠀⠒⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠇⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢇⣟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡰⣏⣠⡤⠼⠿⠟⠓⠒⠲⢤⡀⠀⠀⠀⠀⠀</text>
+        <text x="35" y="220.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⣸⠸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣦⠀⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀</text>
+        <text x="35" y="225.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢱⠿⡆⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡋⣡⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡆⠀⠀⠀</text>
+        <text x="35" y="230.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⢸⢠⡇⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣷⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀</text>
+        <text x="35" y="234.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠯⠷⠀⠀⠀⠀⠀⠀⠀⢰⢇⣿⠀⠀⠀⠀⠀⠀⠀⣰⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⠈⢘⣟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀</text>
+        <text x="35" y="239.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⣸⠁⠀⠀⠀⠀⠀⠀⠀⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⠀⠀⢸⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣆⠘⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀</text>
+        <text x="35" y="244.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢧⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣆⠀⡇⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀</text>
+        <text x="35" y="249.2" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠸⡄⠘⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣆⢻⢨⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀</text>
+        <text x="35" y="254.0" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢷⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⢠⡏⡇⠀⠀⠀⠀⠀⠀⠀⠀⢷⠀⢸⡆⠀⠀⠀⠰⡆⠀⠀⠀⠀⠸⡾⢼⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀</text>
+        <text x="35" y="258.8" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⣼⢰⠇⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⢷⠀⠀⠀⠀⢳⠀⠀⠀⠀⠀⠀⠈⣯⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀</text>
+        <text x="35" y="263.6" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣷⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⡟⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⢸⡌⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀</text>
+        <text x="35" y="268.4" class="art">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⡟⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⢸⡏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⠀</text>
+    </g>
+
+    <!-- information panel (Delays offset by 2.4s to start after boot) -->
+    <g class="reveal" style="animation-delay:2.65s">
+      <text x="422" y="68" class="tiny">PROFILE // 01</text>
+      <text x="422" y="93" class="name">HEN MALIANKER</text>
+    </g>
+    <g class="reveal" style="animation-delay:2.92s">
+      <text x="422" y="125" class="label">STATUS</text>
+      <text x="510" y="125" class="value">B.Sc. CS Student @ SCE (AI Track)</text>
+      <text x="422" y="152" class="label">LOCATION</text>
+      <text x="510" y="152" class="value">Israel</text>
+      <path d="M422 168H855" stroke="#1a587b" stroke-dasharray="3 4"/>
+    </g>
+    <g class="reveal" style="animation-delay:3.19s">
+      <text x="422" y="193" class="section">[ LOADOUT / TECH STACK ]</text>
+      <text x="422" y="215" class="label">CODE</text>
+      <text x="510" y="215" class="value">Python · Java · C++ · C · x86 ASM</text>
+      <text x="422" y="237" class="label">TOOLS</text>
+      <text x="510" y="237" class="value">Linux · Git · VS Code · PyCharm · Colab</text>
+      <path d="M422 253H855" stroke="#1a587b" stroke-dasharray="3 4"/>
+    </g>
+    <g class="reveal" style="animation-delay:3.46s">
+      <text x="422" y="278" class="section">[ ACTIVE MISSION ]</text>
+      <text x="422" y="300" class="label">FOCUS</text>
+      <text x="510" y="300" class="value">Artificial Intelligence / Machine Learning</text>
+      <text x="422" y="322" class="label">PROJECT</text>
+      <text x="510" y="322" class="value">Defensive Drone Interception System</text>
+      <path d="M422 338H855" stroke="#1a587b" stroke-dasharray="3 4"/>
+    </g>
+    <g class="reveal" style="animation-delay:3.73s">
+      <text x="422" y="358" class="label">EMAIL</text>
+      <text x="460" y="358" class="value">hen88275@gmail.com</text>
+      <text x="590" y="358" class="label">LINKEDIN</text>
+      <text x="650" y="358" class="value">www.linkedin.com/in/hen-malianker</text>
+    </g>
+
+    <!-- thin blue scanner: Starts ONLY after the UI boots (at 2.6s) -->
+    <g clip-path="url(#cardClip)">
+      <rect x="20" y="44" width="860" height="20" fill="#20c8ff" opacity="0" filter="url(#softGlow)">
+        <animate attributeName="y" from="42" to="360" begin="2.6s" dur="2.5s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;0.18;0.18;0" keyTimes="0;0.1;0.9;1" begin="2.6s" dur="2.5s" fill="freeze"/>
+      </rect>
+      <rect x="20" y="44" width="860" height="4" fill="url(#scanGrad)" opacity="0" filter="url(#glow)">
+        <animate attributeName="y" from="42" to="360" begin="2.6s" dur="2.5s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" begin="2.6s" dur="2.5s" fill="freeze"/>
+      </rect>
+      <rect x="20" y="46" width="860" height="322" fill="none" stroke="#33d2ff" stroke-opacity=".3" opacity="0.1">
+        <animate attributeName="opacity" values=".1;.4;.1" begin="2.6s" dur="2.5s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
 </svg>
