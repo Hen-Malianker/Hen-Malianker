@@ -1,10 +1,5 @@
 <div align="center">
-
-<p align="center">
-  <a href="https://github.com/hen-malianker"><img src="scan.gif" width="160" height="160" alt="Avatar Scan" style="border-radius: 6px; vertical-align: middle; object-fit: cover; margin-right: -5px; margin-bottom: 90px;" /></a><img src="profile_terminal.svg" width="530" height="320" alt="Terminal Profile" style="vertical-align: middle;" />
-</p>
-
-<br/>
+<img src="profile_terminal.svg?v=7" alt="Hen Malianker Neural Profile" width="100%" />
 
 <br/>
 
