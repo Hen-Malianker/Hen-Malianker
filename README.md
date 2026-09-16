@@ -43,6 +43,17 @@ Feel free to reach out!
 
 <br/>
 
+<br/>
+
+### ❤️ Status & Pulse
+<div align="center">
+  <img src="pulse.svg" alt="Green Heartbeat Pulse" width="100%">
+</div>
+
+<br/>
+
+
+
 <div align="center">
 <sub>Made with a terminal-style SVG — dot-matrix portrait rendered from a photo via edge detection.</sub>
 </div>
