@@ -6,7 +6,7 @@
 
 </div>
 
-### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[+USER_PROFILE+]" alt="User Profile" />
+### <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&color=00FF00&vCenter=true&repeat=false&lines=[+USER+PROFILE+]" alt="User Profile" />
 A third-year Computer Science (B.Sc.) student in the AI track at SCE, passionate about coding and bringing ideas to life. Strongly interested in artificial intelligence and gaming, combining analytical thinking with a drive for development to build robust applications.
 
 <img src="image-removebg-preview.png" align="right" width="80" alt="Fingerprint Trail">
